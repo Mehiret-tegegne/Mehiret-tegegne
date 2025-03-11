@@ -23,7 +23,7 @@
 ## Connect with Me
 - 📫 **Email:** mercysubsist1@gmail.com
 - 🐦 **Twitter:** soon...
-- 💼 **LinkedIn:** 
+- 💼 **LinkedIn:** www.linkedin.com/in/mehiret-tegegne-9ba49b354
 
 ## What I'm Learning
 - Currently deepening my knowledge in **Django** and **web development**.
